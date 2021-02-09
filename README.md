@@ -15,8 +15,8 @@
 <a href="https://github.com/Mr-Paradox13/Bot-Whatsapp/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Mr-Paradox13/Bot-Whatsapp?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## Contact Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
-
+## if there is an API error or not working, please contact me
+* Contact Me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 * [`WhatsApp Admin `](https://wa.me/+6285895811075)
 * [`Group WhatsApp `](https://chat.whatsapp.com/I14rsPokjaq5gM6cWaSeHU)
 
